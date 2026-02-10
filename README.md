@@ -43,18 +43,96 @@
 
 <br/>
 
-<h2 align="center" style="color:#22d3ee;">🛠 Tech Stack</h2>
+<h2 align="center" style="color:#22d3ee;">🛠️ Tech Stack</h2>
 
-<div align="center">
+<div align="center" style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+  max-width: 950px;
+  margin: auto;
+">
 
-<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-022c22?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/MERN-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Oracle%20SQL-3b0a0a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git"/>
+  <!-- Backend -->
+  <div style="
+    background: rgba(34,211,238,0.08);
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(34,211,238,0.25);
+    animation: pulse 4s ease-in-out infinite;
+  ">
+    <h3 style="color:#22d3ee;">Backend</h3>
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+    <ul style="list-style:none; padding:0; margin-top:10px;">
+      <li>Java</li>
+      <li>Spring Boot</li>
+      <li>REST APIs</li>
+    </ul>
+  </div>
+
+  <!-- Frontend -->
+  <div style="
+    background: rgba(168,85,247,0.08);
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(168,85,247,0.25);
+    animation: pulse 4s ease-in-out infinite;
+  ">
+    <h3 style="color:#a855f7;">Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <ul style="list-style:none; padding:0; margin-top:10px;">
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>JavaScript</li>
+      <li>React</li>
+    </ul>
+  </div>
+
+  <!-- Database -->
+  <div style="
+    background: rgba(34,197,94,0.08);
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(34,197,94,0.25);
+    animation: pulse 4s ease-in-out infinite;
+  ">
+    <h3 style="color:#22c55e;">Database</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+    <ul style="list-style:none; padding:0; margin-top:10px;">
+      <li>Oracle SQL</li>
+      <li>MongoDB</li>
+    </ul>
+  </div>
+
+  <!-- Tools -->
+  <div style="
+    background: rgba(251,191,36,0.08);
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(251,191,36,0.25);
+    animation: pulse 4s ease-in-out infinite;
+  ">
+    <h3 style="color:#fbbf24;">Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+    <ul style="list-style:none; padding:0; margin-top:10px;">
+      <li>Git & GitHub</li>
+      <li>Postman</li>
+      <li>IntelliJ IDEA</li>
+      <li>VS Code</li>
+    </ul>
+  </div>
 
 </div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+</style>
+
 
 <br/>
 
@@ -70,20 +148,9 @@
 <h2 align="center" style="color:#00f5a0;">📫 Connect</h2>
 
 <p align="center" style="font-size:16px;">
-  <a href="https://github.com/your-username" style="color:#22d3ee;">GitHub</a> •
-  <a href="https://linkedin.com/in/your-profile" style="color:#22d3ee;">LinkedIn</a>
+   <a href="https://veeresh-hulsogi-portfolio.netlify.app/" style="color:#22d3ee;">Portfolio</a>
+  <a href="https://github.com/v1e2-f55" style="color:#22d3ee;">GitHub</a> •
+  <a href="https://www.linkedin.com/in/veeresh-hulsogi/" style="color:#22d3ee;">LinkedIn</a>
 </p>
 
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
 
-@keyframes floatCard {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-6px); }
-  100% { transform: translateY(0px); }
-}
-</style>
