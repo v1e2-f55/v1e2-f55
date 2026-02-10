@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center" style="font-size:18px; color:#94a3b8;">
-  BE Graduate (2026) • Java Full Stack Developer
+  BE Graduate (2026) • Java Full Stack Developer(Intern)
 </p>
 
 <br/>
@@ -64,10 +64,6 @@
     <h3 style="color:#22d3ee;">Backend</h3>
     <img src="https://skillicons.dev/icons?i=java,spring" />
     <ul style="list-style:none; padding:0; margin-top:10px;">
-      <li>Java</li>
-      <li>Spring Boot</li>
-      <li>REST APIs</li>
-    </ul>
   </div>
 
   <!-- Frontend -->
@@ -81,11 +77,6 @@
     <h3 style="color:#a855f7;">Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     <ul style="list-style:none; padding:0; margin-top:10px;">
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>JavaScript</li>
-      <li>React</li>
-    </ul>
   </div>
 
   <!-- Database -->
@@ -99,11 +90,7 @@
     <h3 style="color:#22c55e;">Database</h3>
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
-    <ul style="list-style:none; padding:0; margin-top:10px;">
-      <li>Oracle SQL</li>
-      <li>MongoDB</li>
-    </ul>
-  </div>
+  
 
   <!-- Tools -->
   <div style="
@@ -115,23 +102,10 @@
   ">
     <h3 style="color:#fbbf24;">Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
-    <ul style="list-style:none; padding:0; margin-top:10px;">
-      <li>Git & GitHub</li>
-      <li>Postman</li>
-      <li>IntelliJ IDEA</li>
-      <li>VS Code</li>
-    </ul>
+    
   </div>
 
 </div>
-
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.03); }
-  100% { transform: scale(1); }
-}
-</style>
 
 
 <br/>
@@ -139,16 +113,16 @@
 <h2 align="center" style="color:#a855f7;">🎯 Open To</h2>
 
 <p align="center" style="font-size:16px;">
-  🚀 Internship / Entry-Level roles as  
-  <b>Java Developer • Java Full Stack Developer • Software Engineer</b>
+  🚀 Internship / Entry-Level roles as  <br>
+  <b>• Java Developer • Java Full Stack Developer • Software Engineer</b>
 </p>
 
 <br/>
 
 <h2 align="center" style="color:#00f5a0;">📫 Connect</h2>
 
-<p align="center" style="font-size:16px;">
-   <a href="https://veeresh-hulsogi-portfolio.netlify.app/" style="color:#22d3ee;">Portfolio</a>
+<p align="center" style="font-size:16px;"> •
+   <a href="https://veeresh-hulsogi-portfolio.netlify.app/" style="color:#22d3ee;">Portfolio</a> •
   <a href="https://github.com/v1e2-f55" style="color:#22d3ee;">GitHub</a> •
   <a href="https://www.linkedin.com/in/veeresh-hulsogi/" style="color:#22d3ee;">LinkedIn</a>
 </p>
